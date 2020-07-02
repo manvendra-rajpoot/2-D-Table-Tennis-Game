@@ -1,0 +1,22 @@
+{
+  "name": "table_tennis",
+  "version": "1.0.0",
+  "description": "This is project done under the course Hands On Into To Game Devlopment!",
+  "main": "gameTT.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manvendra264/2-D-Table-Tennis-Game.git"
+  },
+  "author": "Manvendra Rajpoot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manvendra264/2-D-Table-Tennis-Game/issues"
+  },
+  "homepage": "https://github.com/manvendra264/2-D-Table-Tennis-Game#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
