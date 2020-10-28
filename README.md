@@ -1,8 +1,8 @@
 # 2-D-Table-Tennis-Game
 A Web-Dev oriented Game which is primitively found in Cellphones.
 
-## Testing Link :
-[Go to the Support Web Site](https://support.west-wind.com)
+
+[Go to the Testing Web Site](https://manvendra264.github.io/2-D-Table-Tennis-Game/)
 
 ## Motivation :
 Contribution brings happiness to world and learning new things leads to skill development!
